@@ -1,0 +1,6 @@
+DATASET NAME : FRACATLAS
+WEBSITE : KAGGLE 
+
+Dataset link: https://www.kaggle.com/datasets/abdelazizfaramawy/fracatlas
+
+Dataset size: 343 mb
